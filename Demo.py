@@ -2,7 +2,7 @@ import requests
 import base64
 
 # GitHub Configuration
-GITHUB_TOKEN = "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"  # Replace with your PAT
+GITHUB_TOKEN = "github_pat_11BLUSILY0ZWPmh_ROPcLUYgsRqkG2O7YyCF3MMwnpG59PALyi5itZM28LnXHGCCP3Z6j6AcLqS"  # Replace with your PAT
 USERNAME = "Aleenarc"  # Replace with your GitHub username
 REPO_NAME = "secret-scanning-demo-simple"
 DUMMY_SECRET = "AWS_SECRET_KEY=ABC123FAKEKEY"
